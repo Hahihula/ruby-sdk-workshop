@@ -1,6 +1,6 @@
 {
-  "username": "bear@gooddata.com",
-  "password": "secret",
-  "server": "https://ruby-workshop.na.intgdc.com",
-  "verify_ssl": false
+    "username": "bear@gooddata.com",
+    "password": "tajneheslo",
+    "server": "https://pgd-ruby-sdk-workshop.na.intgdc.com",
+    "verify_ssl": false
 }
